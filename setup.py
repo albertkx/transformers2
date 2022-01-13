@@ -82,7 +82,7 @@ extras["quality"] = [
 extras["dev"] = extras["testing"] + extras["quality"] + ["mecab-python3", "scikit-learn", "tensorflow", "torch"]
 
 setup(
-    name="transformers",
+    name="transformers2",
     version="2.8.0",
     author="Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Sam Shleifer, Google AI Language Team Authors, Open AI team Authors, Facebook AI Authors, Carnegie Mellon University Authors",
     author_email="thomas@huggingface.co",
